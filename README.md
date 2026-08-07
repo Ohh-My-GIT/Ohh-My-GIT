@@ -96,7 +96,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 |---|---|
 | Languages | JavaScript / Python / HTML / CSS |
 | Environment | Linux / Ubuntu / Terminal |
-| Tools | Git / GitHub | Codex |
+| Tools | Git / GitHub / Codex |
 | Learning & Building | 役に立たない変なツール / ネタコード |
 | Hidden Skill | うんこ |
 
@@ -106,6 +106,9 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 - Pythonも巻き込まれてネタ化
 - Linuxとターミナルを日常的に使用
 - 読めるコードと、読んだら困惑するコードの両方を育成中
+- Vibe Coding NOWWWW　❗
+
+### AI・LLM　Lover
 
 > GitHub Statsカードは、外部サービス停止による壊れた画像を避けるため置いていません。
 
