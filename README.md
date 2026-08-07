@@ -157,6 +157,8 @@ NEXT_FORM:    undefined
 
 ---
 
+> 一応言っておきますが、普段は**様子のおかしい真面目な変人**です
+
 <!-- ENDING  -->
 <div align="center">
 
