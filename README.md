@@ -1,7 +1,5 @@
-<!-- =========================================================
-  Ohh-My-GIT profile README
-  セクション単位で並べ替え・削除しやすいように区切っています。
-========================================================== -->
+
+<!--  Ohh-My-GIT profile README -->
 
 <div align="center">
   <img src="./assets/header.svg" alt="うおおおおおおおおおおおお‼️‼️‼️‼️‼️ — Ohh-My-GIT / ミラクル吐瀉物ゲロリンチョ" width="100%">
@@ -16,7 +14,7 @@
 
 <p align="center">💩 💩 💩 💩 💩 💩 💩 💩 💩</p>
 
-<!-- ===== BADGES：増減したいときはこのブロックだけ編集 ===== -->
+<!-- 増減したいときはこのブロックだけ編集  -->
 <p align="center">
   <img alt="STATUS: CHAOS ENABLED" src="https://img.shields.io/badge/STATUS-CHAOS%20ENABLED-ff2e88?style=for-the-badge&labelColor=08152f">
   <img alt="MOOD: MIDNIGHT BLUE" src="https://img.shields.io/badge/MOOD-MIDNIGHT%20BLUE-42d9ff?style=for-the-badge&labelColor=08152f">
@@ -27,7 +25,7 @@
 
 ---
 
-<!-- ===== TERMINAL PROFILE ===== -->
+<!--  TERMINAL PROFILE  -->
 ## `~/WHOAMI`
 
 ```console
@@ -35,10 +33,9 @@ Ohh-My-GIT@midnight-city:~$ whoami
 ミラクル吐瀉物ゲロリンチョ
 
 Ohh-My-GIT@midnight-city:~$ cat interests.txt
-JavaScript がかなり好き。Python も使う。
-Linux / Ubuntu とターミナルが落ち着く。
-Web を勉強しながら、変なコードとネタコードを製造中。
-ジェットコースターを見ると理性が先に乗車する。
+JavaScript 大好き。たまにPython 
+Linux / Ubuntu とターミナルに生息してる
+変なコードとネタコードを製造中。
 
 Ohh-My-GIT@midnight-city:~$ uptime --brain
 深夜テンションで稼働中 / 正気はメンテナンス中
@@ -49,7 +46,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 > オナラ出ちゃった  
 > **被害状況：** なし　　**犯人：** 不明
 
-<!-- ===== JAVASCRIPT SKIT ===== -->
+<!--  JAVASCRIPT SKIT  -->
 ## `JavaScript.exe` 起動
 
 **JavaとScriptがmerge！**
@@ -71,10 +68,10 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 
 ---
 
-<!-- ===== QUOTE：必須の名言枠 ===== -->
+<!-- 名言（かも） -->
 <div align="center">
 
-## 🌙 ありがたいお言葉 🌙
+## 🌙 なんか誕生した名言 (多分) 🌙
 
 ### 「undefinedはファンサだと思え」
 
@@ -86,7 +83,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 
 ---
 
-<!-- ===== SERIOUS MODE：技術情報はここに集約 ===== -->
+<!-- 技術情報はここに集約  -->
 ## 🚨 ここから急に真面目です
 
 ### 技術スタック
@@ -99,14 +96,14 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 |---|---|
 | Languages | JavaScript / Python / HTML / CSS |
 | Environment | Linux / Ubuntu / Terminal |
-| Tools | Git / GitHub |
-| Learning & Building | Web開発 / 小さなツール / ネタコード |
+| Tools | Git / GitHub | Codex |
+| Learning & Building | 役に立たない変なツール / ネタコード |
 | Hidden Skill | うんこ |
 
 ### 現在地
 
-- JavaScriptを中心に、Webの仕組みを勉強・制作中
-- Pythonでも小さなプログラムを制作
+- JavaScriptで変で笑えるコードを書いてる（たまに真面目）
+- Pythonも巻き込まれてネタ化
 - Linuxとターミナルを日常的に使用
 - 読めるコードと、読んだら困惑するコードの両方を育成中
 
@@ -116,7 +113,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 
 <div align="center"><h2>💩</h2></div>
 
-<!-- ===== ALIASES ===== -->
+<!-- ALIASES  -->
 ## `KNOWN ALIASES`
 
 - 便器の妖精クソリータ
@@ -124,6 +121,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 - オナラ聖女 屁イリー・ブリリ
 - 寝不足トロピカルレゲエミラクルゲロゲロカスプリンセス
 - ドブ川令嬢
+> ※増える可能性あり
 
 ```yaml
 CURRENT_FORM: 寝不足トロピカルレゲエミラクルゲロゲロカスプリンセス
@@ -131,7 +129,7 @@ STATUS:       形態維持に失敗
 NEXT_FORM:    undefined
 ```
 
-<!-- ===== FAKE ACTIVITY：実際のGitHub履歴ではありません ===== -->
+<!-- 実際のGitHub履歴ではありません  -->
 ## `LATEST ACTIVITY --probably-fake`
 
 ```diff
@@ -142,7 +140,7 @@ NEXT_FORM:    undefined
 + 寝不足を main に統合しました
 ```
 
-<!-- ===== FICTIONAL PROJECTS：リンク禁止、架空と明記 ===== -->
+<!-- リンク禁止、架空と明記  -->
 ## `LAB / 存在しないプロジェクト`
 
 | プロジェクト | 状態 |
@@ -156,7 +154,7 @@ NEXT_FORM:    undefined
 
 ---
 
-<!-- ===== ENDING ===== -->
+<!-- ENDING  -->
 <div align="center">
 
 ここまでREADMEを読んでくれてありがとうございました。
