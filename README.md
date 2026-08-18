@@ -106,7 +106,7 @@ Ohh-My-GIT@midnight-city:~$ uptime --brain
 - Pythonも巻き込まれてネタ化
 - Linuxとターミナルを日常的に使用
 - 読めるコードと、読んだら困惑するコードの両方を育成中
-- Vibe Coding NOWWWW　❗
+- Vibe Coding NOWWWW　‼️
 
 ### AI・LLM　Lover
 
